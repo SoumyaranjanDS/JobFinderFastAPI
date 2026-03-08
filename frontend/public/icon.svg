@@ -1,0 +1,10 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="4" fill="#0f172a"/>
+  
+  <path d="M10 30V10L16 10V22L24 10H30V30H24V18L16 30H10Z" fill="white"/>
+  
+  <rect x="24" y="24" width="6" height="6" fill="#2563eb"/>
+  
+  <rect x="10" y="10" width="1" height="1" fill="#2563eb" opacity="0.5"/>
+  <rect x="29" y="10" width="1" height="1" fill="#2563eb" opacity="0.5"/>
+</svg>
